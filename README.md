@@ -12,10 +12,10 @@
 
 ## About me
 
-- 🛠️ I'm currently working at Fullstack Store
-- 🌱 I’m currently learning NestJS
+- 🛠️ I'm currently working at Quiplash game
+- 🌱 I’m currently learning Express, Redis
 - 📄 Know about my experience [CV](https://navi-friend.github.io/cv/)
-- 🎓 Studnt of Mechanics and Mathematics faculty
+- 🎓 Student of Mechanics and Mathematics faculty
 - 🌎 I speak English
 
 <hr/>
