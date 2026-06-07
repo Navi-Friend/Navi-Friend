@@ -12,11 +12,10 @@
 
 ## About me
 
-- 🛠️ I'm currently working at Quiplash game
-- 🌱 I’m currently learning Express, Redis
+- 🛠️ I'm currently working at Authentication app using NestJS
+- 🌱 I’m currently learning NestJS, PostgreSQL
 - 📄 Know about my experience [CV](https://navi-friend.github.io/cv/)
 - 🎓 Student of Mechanics and Mathematics faculty
-- 🌎 I speak English
 
 <hr/>
 
