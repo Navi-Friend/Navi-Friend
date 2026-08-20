@@ -12,8 +12,8 @@
 
 ## About me
 
-- 🛠️ I'm currently working at Authentication app using NestJS
-- 🌱 I’m currently learning NestJS, PostgreSQL
+- 🛠️ I'm currently working at Financial Engine Project
+- 🌱 I’m currently learning RabbitMQ, Microservices architecture
 - 📄 Know about my experience [CV](https://navi-friend.github.io/cv/)
 - 🎓 Student of Mechanics and Mathematics faculty
 
